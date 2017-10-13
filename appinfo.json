@@ -1,0 +1,102 @@
+{
+    "appKeys": {
+        "0": 0,
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8,
+        "9": 9,
+        "code": 100,
+        "index":101,
+        "lat":200,
+        "lng":201,
+        "destination":300
+    },
+    "capabilities": [ "location" ],
+    "companyName": "Anoram",
+    "longName": "Explore",
+    "projectType": "native",
+    "resources": {
+        "media": [
+        {
+          "type": "png",
+          "name": "icon",
+          "file": "images/icon.png",
+          "menuIcon":true
+        },
+        {
+            "type": "png",
+            "name": "IMAGE_BUTTON_UP",
+            "file": "images/up.png"
+        },
+        {
+            "type": "png",
+            "name": "IMAGE_BUTTON_DOWN",
+            "file": "images/down.png"
+        },
+        {
+            "type": "png",
+            "name": "IMAGE_BUTTON_SELECT",
+            "file": "images/select.png"
+        },
+        {
+            "type": "png",
+            "name": "IMAGE_BUTTON_CAR",
+            "file": "images/car.png"
+        },
+        {
+            "type": "png",
+            "name": "FOOD",
+            "file": "images/menu/food.png"
+        },
+        {
+            "type": "png",
+            "name": "DRINKS",
+            "file": "images/menu/drinks.png"
+        },
+        {
+            "type": "png",
+            "name": "COFFEE",
+            "file": "images/menu/coffee.png"
+        },
+        {
+            "type": "png",
+            "name": "SHOPS",
+            "file": "images/menu/shops.png"
+        },
+        {
+            "type": "png",
+            "name": "ARTS",
+            "file": "images/menu/arts.png"
+        },
+        {
+            "type": "png",
+            "name": "OUTDOORS",
+            "file": "images/menu/outdoors.png"
+        },
+        {
+            "type": "png",
+            "name": "SIGHTS",
+            "file": "images/menu/sights.png"
+        },
+        {
+            "type": "png",
+            "name": "SPECIALS",
+            "file": "images/menu/specials.png"
+        }
+
+
+        ]
+    },
+    "shortName": "Explore",
+    "uuid": "144148b3-c282-49e1-968b-646aeb57da2f",
+    "versionCode": 1,
+    "versionLabel": "1.1",
+    "watchapp": {
+        "watchface": false
+    }
+}
